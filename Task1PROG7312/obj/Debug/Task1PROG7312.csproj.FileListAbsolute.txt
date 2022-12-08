@@ -1,0 +1,23 @@
+C:\Users\Lcars\source\repos\Task1PROG7312\Task1PROG7312\bin\Debug\Task1PROG7312.exe.config
+C:\Users\Lcars\source\repos\Task1PROG7312\Task1PROG7312\bin\Debug\Task1PROG7312.exe
+C:\Users\Lcars\source\repos\Task1PROG7312\Task1PROG7312\bin\Debug\Task1PROG7312.pdb
+C:\Users\Lcars\source\repos\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.csprojAssemblyReference.cache
+C:\Users\Lcars\source\repos\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.ReplacingBooks.resources
+C:\Users\Lcars\source\repos\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.Properties.Resources.resources
+C:\Users\Lcars\source\repos\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.csproj.GenerateResource.cache
+C:\Users\Lcars\source\repos\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.csproj.CoreCompileInputs.cache
+C:\Users\Lcars\source\repos\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.exe
+C:\Users\Lcars\source\repos\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.pdb
+C:\Users\Lcars\source\repos\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.MainWindow.resources
+C:\Users\Lcars\Documents\Adobe\Work\Year3\PROG7312\Task1\Part 2 - Implementation\Task1PROG7312\Task1PROG7312\bin\Debug\Task1PROG7312.exe.config
+C:\Users\Lcars\Documents\Adobe\Work\Year3\PROG7312\Task1\Part 2 - Implementation\Task1PROG7312\Task1PROG7312\bin\Debug\Task1PROG7312.exe
+C:\Users\Lcars\Documents\Adobe\Work\Year3\PROG7312\Task1\Part 2 - Implementation\Task1PROG7312\Task1PROG7312\bin\Debug\Task1PROG7312.pdb
+C:\Users\Lcars\Documents\Adobe\Work\Year3\PROG7312\Task1\Part 2 - Implementation\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.csprojAssemblyReference.cache
+C:\Users\Lcars\Documents\Adobe\Work\Year3\PROG7312\Task1\Part 2 - Implementation\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.ReplacingBooks.resources
+C:\Users\Lcars\Documents\Adobe\Work\Year3\PROG7312\Task1\Part 2 - Implementation\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.MainWindow.resources
+C:\Users\Lcars\Documents\Adobe\Work\Year3\PROG7312\Task1\Part 2 - Implementation\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.Properties.Resources.resources
+C:\Users\Lcars\Documents\Adobe\Work\Year3\PROG7312\Task1\Part 2 - Implementation\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.csproj.GenerateResource.cache
+C:\Users\Lcars\Documents\Adobe\Work\Year3\PROG7312\Task1\Part 2 - Implementation\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.csproj.CoreCompileInputs.cache
+C:\Users\Lcars\Documents\Adobe\Work\Year3\PROG7312\Task1\Part 2 - Implementation\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.exe
+C:\Users\Lcars\Documents\Adobe\Work\Year3\PROG7312\Task1\Part 2 - Implementation\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.pdb
+C:\Users\Lcars\Documents\Adobe\Work\Year3\PROG7312\Task1\Part 2 - Implementation\Task1PROG7312\Task1PROG7312\obj\Debug\Task1PROG7312.idAreas.resources
